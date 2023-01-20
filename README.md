@@ -5,7 +5,7 @@
 - 📖 Learning MERN Full Stack.
 - 👨‍💻 I do coding specially in C++ and Python.
 - 😀 Feel free to check out my coding profile.
--• LeetCode -> https://leetcode.com/yashbhajbhuje67/
--• Hackerrank -> https://www.hackerrank.com/yashbhajbhuje67
+- LeetCode -> https://leetcode.com/yashbhajbhuje67/
+- Hackerrank -> https://www.hackerrank.com/yashbhajbhuje67
 - 🏏Interest in watching Cricket.
 - 📺Genre -> Mostly Action, Mystery, Thriller Movies/Series.

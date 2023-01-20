@@ -7,5 +7,6 @@
 - 😀 Feel free to check out my coding profile.
 -   LeetCode -> https://leetcode.com/yashbhajbhuje67/
 -   Hackerrank -> https://www.hackerrank.com/yashbhajbhuje67
-- 🏏Interest in watching Cricket.
-- 📺Genre -> Mostly Action, Mystery, Thriller Movies/Series.
+- 🏏 Interest in watching Cricket.
+- 📺 Genre -> Mostly Action, Mystery, Thriller Movies/Series.
+- Connect -> yashbhajbhuje67@gmail.com | Linkdin -> https://www.linkedin.com/in/yash-bhajbhuje-1b6312198/

@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there !! 👋
 
-<!--
-**YashBhajbhuje67/YashBhajbhuje67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🙌 I am Yash Bhajbhuje currently a Student @VIIT, Pune.
+- ⚛️ currently learning JavaScript for Web Development.
+- 📖 Learning MERN Full Stack.
+- 👨‍💻 I do coding specially in C++ and Python.
+- 😀 Feel free to check out my coding profile.
+     • LeetCode -> https://leetcode.com/yashbhajbhuje67/
+     • Hackerrank -> https://www.hackerrank.com/yashbhajbhuje67
+- 🏏Interest in watching Cricket.
+- 📺Genre -> Mostly Action, Mystery, Thriller Movies/Series.

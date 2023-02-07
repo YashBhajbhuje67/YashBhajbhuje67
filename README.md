@@ -9,5 +9,5 @@
 -   Hackerrank -> https://www.hackerrank.com/yashbhajbhuje67
 -   😎 Love Competitive Coding.
 - 🏏 Interest in watching Cricket.
-- 📺 Genre -> Mostly Action, Mystery, Thriller Movies/Series.
+- 📺 Genre -> Mostly Action, Adventure, Mystery, Thriller and sometimes rom-coms Movies/Series.
 - 📱Connect: E-mail -> yashbhajbhuje67@gmail.com | Linkdin -> https://www.linkedin.com/in/yash-bhajbhuje-1b6312198/

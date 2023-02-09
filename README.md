@@ -10,6 +10,6 @@
 - 🏏 Interest in watching Cricket.
 - 📺 Genre -> Mostly Action, Adventure, Mystery, Thriller and sometimes rom-coms Movies/Series.
 - 📱Connect: E-mail -> yashbhajbhuje67@gmail.com | Linkdin -> https://www.linkedin.com/in/yash-bhajbhuje-1b6312198/
-
+-
 -Technologies currently learning...
 Vite, React, Tailwindcss, Material UI

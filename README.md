@@ -2,7 +2,7 @@
 
 - 🙌 I am Yash Bhajbhuje currently a Student @VIIT, Pune.
 - 📖 Learning MERN Full Stack.
-- 👨‍💻 I do coding specially in C++ and Python.
+- 👨‍💻 I do coding in C++ and Python.
 - 😀 Feel free to check out my coding profile.
 -   LeetCode -> https://leetcode.com/yashbhajbhuje67/
 -   Hackerrank -> https://www.hackerrank.com/yashbhajbhuje67

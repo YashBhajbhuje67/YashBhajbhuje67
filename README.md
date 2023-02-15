@@ -11,4 +11,4 @@
 - 📺 Genre -> Mostly Action, Adventure, Mystery, Thriller and sometimes rom-coms Movies/Series.
 - 📱Connect: E-mail -> yashbhajbhuje67@gmail.com | Linkdin -> https://www.linkedin.com/in/yash-bhajbhuje-1b6312198/
 - Technologies currently learning/using...
-Vite, Tailwindcss, Material UI
+- Vite, Tailwindcss, Material UI

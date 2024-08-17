@@ -4,15 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashbhajbhuje67" alt="yashbhajbhuje67" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YashBhajbhuje67?tab=repositories](https://github.com/YashBhajbhuje67?tab=repositories)
-
-- 💬 Ask me about **React, TailwindCss, Node**
-
-- 📫 How to reach me **yashbhajbhuje67@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uzohcmBcoZzNc2eS8PoaVusTG9mcWMK-/view?usp=sharing](https://drive.google.com/file/d/1uzohcmBcoZzNc2eS8PoaVusTG9mcWMK-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
